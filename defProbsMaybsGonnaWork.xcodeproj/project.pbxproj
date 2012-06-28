@@ -22,14 +22,14 @@
 		D7C7C651159D0AD200343C1D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D7C7C653159D0AD200343C1D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D7C7C655159D0AD200343C1D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D7C7C659159D0AD200343C1D /* defProbsMaybsGonnaWork-Info.plist */ = {isa = PBXFileReference; path = "defProbsMaybsGonnaWork-Info.plist"; sourceTree = "<group>"; };
+		D7C7C659159D0AD200343C1D /* defProbsMaybsGonnaWork-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "defProbsMaybsGonnaWork-Info.plist"; sourceTree = "<group>"; };
 		D7C7C65B159D0AD200343C1D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D7C7C65D159D0AD200343C1D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D7C7C65F159D0AD200343C1D /* defProbsMaybsGonnaWork-Prefix.pch */ = {isa = PBXFileReference; path = "defProbsMaybsGonnaWork-Prefix.pch"; sourceTree = "<group>"; };
-		D7C7C660159D0AD200343C1D /* defProbsMaybsGonnaWorkAppDelegate.h */ = {isa = PBXFileReference; path = defProbsMaybsGonnaWorkAppDelegate.h; sourceTree = "<group>"; };
+		D7C7C65F159D0AD200343C1D /* defProbsMaybsGonnaWork-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "defProbsMaybsGonnaWork-Prefix.pch"; sourceTree = "<group>"; };
+		D7C7C660159D0AD200343C1D /* defProbsMaybsGonnaWorkAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = defProbsMaybsGonnaWorkAppDelegate.h; sourceTree = "<group>"; };
 		D7C7C661159D0AD200343C1D /* defProbsMaybsGonnaWorkAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = defProbsMaybsGonnaWorkAppDelegate.m; sourceTree = "<group>"; };
 		D7C7C664159D0AD200343C1D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		D7C7C666159D0AD200343C1D /* defProbsMaybsGonnaWorkViewController.h */ = {isa = PBXFileReference; path = defProbsMaybsGonnaWorkViewController.h; sourceTree = "<group>"; };
+		D7C7C666159D0AD200343C1D /* defProbsMaybsGonnaWorkViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = defProbsMaybsGonnaWorkViewController.h; sourceTree = "<group>"; };
 		D7C7C667159D0AD200343C1D /* defProbsMaybsGonnaWorkViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = defProbsMaybsGonnaWorkViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
